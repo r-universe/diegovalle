@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aire.zmvm"]
+	path = aire.zmvm
+	url = https://github.com/diegovalle/aire.zmvm
+	shallow = true
+	registered = true
+[submodule "rsinaica"]
+	path = rsinaica
+	url = https://github.com/diegovalle/rsinaica
+	shallow = true
+	registered = true

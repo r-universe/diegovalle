@@ -1,0 +1,10 @@
+[
+  {
+    "package": "aire.zmvm",
+    "oncran": true
+  },
+  {
+    "package": "rsinaica",
+    "oncran": true
+  }
+]
